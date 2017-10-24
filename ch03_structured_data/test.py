@@ -1,3 +1,3 @@
 vowels = ['a', 'e', 'i', 'o', 'u']
-word = input('Provide a word to search for vowels: ')
+word = input('Provide a phrase to search for vowels: ')
 

@@ -1,7 +1,7 @@
 vovels = ['a','e','i','o','u']
 
 found = []
-word = input("Provide a word to search for vovels: ")
+word = input("Provide a phrase to search for vovels: ")
 
 for letter in word:
     if letter in vovels:

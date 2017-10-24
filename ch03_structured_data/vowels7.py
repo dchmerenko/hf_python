@@ -1,5 +1,5 @@
 vowels = {'aeiou'}
-word = input('Provide a word to search for vowels: ')
+word = input('Provide a phrase to search for vowels: ')
 found = []
 
 found = vowels.intersection(set(word))
