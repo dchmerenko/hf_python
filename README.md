@@ -1,3 +1,2 @@
 # hf_python
-redo
-redo2
+Paul Barry - Head First Python. 2nd edition 2016.
